@@ -1,1 +1,1 @@
-# This repository represents my first portifolio ever.
+# This repository represents my first portfolio ever.
