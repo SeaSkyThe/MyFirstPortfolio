@@ -19,9 +19,9 @@ function About(){
                     </div> 
                     <div>
                         <p>
-                            I am passionate about learning constantly, and i'm chasing opportunities to impact and improve other people's lives by constructing good solutions.
+                            I am passionate about learning constantly, and I'm chasing opportunities to impact and improve other people's lives by constructing good solutions.
                             I'm an undergraduate student at São Paulo State University (UNESP) focusing mostly in backend, but with a good knowledge in frontend development.
-                            I also have a little bit of Data Science background, and, last but not least, i love cats.
+                            I also have a little bit of Data Science background, and, last but not least, I love cats.
                         </p>
                     </div>
                 </div>
