@@ -14,3 +14,21 @@
         @apply cursor-pointer;
     }
 }
+
+
+/* Cards for my works */
+.content-div {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+    
+}
+
+.content-div:hover {
+    background-image: linear-gradient(
+        to right,
+        rgba(219, 39, 119, 0.8),
+        #141e2e80
+    )!important;
+}
