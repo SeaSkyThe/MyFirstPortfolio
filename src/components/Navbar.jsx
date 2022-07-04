@@ -1,7 +1,7 @@
 import React from "react";
 import { useState } from "react";
 
-import {FaBars, FaTimes, FaGithub, FaLinkedin, FaFacebook} from 'react-icons/fa'
+import {FaBars, FaTimes, FaGithub, FaLinkedin} from 'react-icons/fa'
 import {HiOutlineMail} from 'react-icons/hi'
 import {BsFillPersonLinesFill} from 'react-icons/bs'
 
@@ -18,7 +18,7 @@ function Navbar() {
     return (
         <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
             <div>
-                <img src={Logo} alt="Logo Image" style={{width: '50px'}}/>
+                <img src={Logo} alt="Logo" style={{width: '50px'}}/>
             </div>
 
             {/* Menu */}
@@ -89,22 +89,22 @@ function Navbar() {
             <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
                 <ul>
                     <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
-                        <a className="w-full text-gray-300 flex justify-between items-center" href="https://www.linkedin.com/in/marcelo-eduardo/" target="_blank">
+                        <a className="w-full text-gray-300 flex justify-between items-center" href="https://www.linkedin.com/in/marcelo-eduardo/" target="_blank" rel="noreferrer">
                             LinkedIn <FaLinkedin size={30}/>
                         </a>
                     </li>
                     <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]">
-                        <a className="w-full text-gray-300 flex justify-between items-center" href="https://github.com/SeaSkyThe" target="_blank">
+                        <a className="w-full text-gray-300 flex justify-between items-center" href="https://github.com/SeaSkyThe" target="_blank" rel="noreferrer">
                             Github <FaGithub size={30}/>
                         </a>
                     </li>
                     <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]">
-                        <a className="w-full text-gray-300 flex justify-between items-center" href="mailto:marceloer2011@gmail.com" target="_blank">
+                        <a className="w-full text-gray-300 flex justify-between items-center" href="mailto:marceloer2011@gmail.com" target="_blank" rel="noreferrer">
                             Email <HiOutlineMail size={30}/>
                         </a>
                     </li>
                     <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
-                        <a className="w-full text-gray-300 flex justify-between items-center" href="https://www.cvkeep.com/cv/3f47aa907fe8218f9abd2bdcba369d07" target="_blank">
+                        <a className="w-full text-gray-300 flex justify-between items-center" href="https://www.cvkeep.com/cv/3f47aa907fe8218f9abd2bdcba369d07" target="_blank" rel="noreferrer">
                             Resume <BsFillPersonLinesFill size={30}/>
                         </a>
                     </li>
