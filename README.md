@@ -1,1 +1,3 @@
-# This repository represents my first portifolio ever.
+# This repository represents my first portfolio ever.
+
+## This was build with React.JS and Tailwind.
