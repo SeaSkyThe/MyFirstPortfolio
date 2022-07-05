@@ -16,10 +16,10 @@ function Home() {
                         Hi, my name is
                     </p>
                     <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6]">Marcelo Eduardo</h1>
-                    <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0] w-auto">
+                    <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0] ">
                         <TypeAnimation
                             cursor={true}
-                            sequence={["I'm a Full Stack Developer.", 1600, "Backend lover.", 1600, "Passionate about technology and sports.", 1600,"A cat person.", 1600, "I'm a Full Stack Developer."]}
+                            sequence={["I'm a Full Stack Developer.", 1600, "Backend lover.", 1600, "Passionate about tech.", 1600,"A cat person.", 1600, "I'm a Full Stack Developer."]}
                         />
                     </h2>
                     
