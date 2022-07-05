@@ -32,3 +32,15 @@
         #141e2e80
     )!important;
 }
+
+/* Work page */
+
+
+@media (max-width: 768px) {
+    .work-page{
+        padding-top: 25vh;
+    }
+    .skills-page{
+        padding: 1rem;
+    }
+}
