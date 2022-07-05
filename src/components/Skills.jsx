@@ -1,19 +1,19 @@
 import React from 'react'
 
-import Clang from '../assets/clang.png'
-import Golang from '../assets/golang.png'
-import JavaScript from '../assets/javascript.png'
-import Python from '../assets/python.png'
+import Clang from '../assets/skills/clang.png'
+import Golang from '../assets/skills/golang.png'
+import JavaScript from '../assets/skills/javascript.png'
+import Python from '../assets/skills/python.png'
 
-import HTML from '../assets/html.png'
-import CSS from '../assets/css.png'
-import Bootstrap from '../assets/bootstrap.png'
-import ReactImg from '../assets/react.png'
+import HTML from '../assets/skills/html.png'
+import CSS from '../assets/skills/css.png'
+import Bootstrap from '../assets/skills/bootstrap.png'
+import ReactImg from '../assets/skills/react.png'
 
-import Django from '../assets/django.png'
-import Flask from '../assets/flask.png'
-import Mongo from '../assets/mongo.png'
-import Postgresql from '../assets/postgresql.png'
+import Django from '../assets/skills/django.png'
+import Flask from '../assets/skills/flask.png'
+import Mongo from '../assets/skills/mongo.png'
+import Postgresql from '../assets/skills/postgresql.png'
 
 
 

@@ -69,7 +69,7 @@ function Navbar() {
                     </Link>
                 </li>
                 <li className="py-6 text-4xl">
-                    <Link onClick={handleClick}  to="skills" smooth={true}  duration={500}>
+                    <Link onClick={handleClick}  to="skills" smooth={true} duration={500}>
                         Skills
                     </Link>
                 </li>
