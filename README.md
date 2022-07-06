@@ -1,4 +1,5 @@
-# This repository represents my first portfolio website ever.
+# This the repo for my Portfolio.
 
-## This was built with React.JS and Tailwind.
+### Built using React JS and Tailwind CSS.
 
+This is the first version of my Portfolio.
